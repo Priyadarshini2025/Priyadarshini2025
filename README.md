@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**Priyadarshini2025/Priyadarshini2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Priyadarshini Satapathy👋
 
-Here are some ideas to get you started:
+### EEE Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Electrical and Electronics Engineering student
+interested in software development, problem-solving,
+and emerging technologies.
+
+- 🎓 Pursuing B.Tech in Electrical and Electronics Engineering
+- 💻 Learning Data Structures and Algorithms
+- 🚀 Building software development projects
+- ☁️ Exploring AWS and Cloud Computing
+- 🔐 Interested in Cybersecurity and IAM
+- 📈 Continuously improving my technical skills
+
+### 🛠️ Tech Stack
+
+- Languages: C, Python, Java (as applicable)
+- Tools: Git, GitHub, VS Code
+- Cloud: AWS (learning)
+- Core Skills: Problem Solving, DSA (learning)
+
+### 📂 Featured Projects
+
+- **[Project Name 1](YOUR_REPOSITORY_LINK)**
+  - Brief description of the problem it solves.
+
+- **[Project Name 2](YOUR_REPOSITORY_LINK)**
+  - Brief description of the technologies used.
+
+### 📊 GitHub Activity
+
+Check out my repositories to see what I'm building
+and learning.
+
+### 🤝 Connect With Me
+
+- LinkedIn: [Your LinkedIn URL](YOUR_LINKEDIN_URL)
+- GitHub: [My GitHub](YOUR_GITHUB_PROFILE_URL)

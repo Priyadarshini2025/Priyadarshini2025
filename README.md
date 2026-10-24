@@ -23,7 +23,7 @@ and emerging technologies.
 
 ### 📂 Featured Projects
 
-- **[Project Name 1](YOUR_REPOSITORY_LINK)**
+- [Project Name 1] https://github.com/Priyadarshini2025/AWS-PROJECT.git
   - Brief description of the problem it solves.
 
 - **[Project Name 2](YOUR_REPOSITORY_LINK)**

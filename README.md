@@ -24,10 +24,10 @@ and emerging technologies.
 ### 📂 Featured Projects
 
 - [Project Name 1] https://github.com/Priyadarshini2025/AWS-PROJECT.git
-  - Brief description of the problem it solves.
+  - Hands-on cloud computing project focused on exploring and implementing AWS services to build and manage cloud infrastructure, gaining practical experience in cloud deployment, configuration, and resource management.
 
-- **[Project Name 2](YOUR_REPOSITORY_LINK)**
-  - Brief description of the technologies used.
+- [Project Name 2] https://github.com/Priyadarshini2025/kubernetes-manifest.git
+  - A Kubernetes project focused on defining application deployment and configuration resources using YAML manifest files, developing practical knowledge of container orchestration, declarative infrastructure, and Kubernetes resource management.
 
 ### 📊 GitHub Activity
 
@@ -36,5 +36,6 @@ and learning.
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL](YOUR_LINKEDIN_URL)
-- GitHub: [My GitHub](YOUR_GITHUB_PROFILE_URL)
+- LinkedIn:
+  https://www.linkedin.com/in/priyadarshini-satapathy-5134333a2
+- GitHub: https://github.com/Priyadarshini2025
